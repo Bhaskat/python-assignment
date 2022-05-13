@@ -1,0 +1,235 @@
+S
+1.
+Cassandra is a high performance 
+and highly scalable distributed 
+NoSQL database management 
+system.
+RDBMS is a Database 
+management system or 
+software which is designed for 
+relational databases.
+2.
+Cassandra is a NoSQL database.
+RDBMS uses SQL for querying 
+and maintaining the database.
+3.
+It deals with unstructured data.
+It deals with structured data.
+4.
+It has a flexible schema.
+It has fixed schema.
+5.
+Cassandra has peer-to-peer 
+architecture with no single point of 
+failure.
+RDBMS has master-slave core 
+architecture means a single 
+point of failure.
+6.
+Cassandra handles high volume 
+incoming data velocity.
+RDBMS handles moderate 
+incoming data velocity.
+7.
+In RDBMS there is limited data 
+source means data come from 
+many locations.
+In Cassandra there are various 
+data source means data come 
+from one/few location.
+8.
+It supports simple transactions.
+It supports complex and nested 
+transactions.
+9.
+In Cassandra the outermost 
+container is Keyspace.
+In RDBMS the outermost 
+container is database.
+10.
+Cassandra follows decentralized 
+deployments.
+RDBMS follows centralized 
+deployments.
+11.
+In Cassandra data written in many 
+locations.
+In RDBMS mainly data are then replicate entire website content 
+elsewhere
+• There is minor difference that Image 
+scraping works on media content where as 
+web scarping works on all the data 
+3.) Explain how MongoDB indexes data.
+• MongoDB uses multikey indexes to index 
+the content stored in arrays. If you index a 
+field that holds an array value, MongoDB 
+creates separate index entries for every 
+element of the array. These multikey 
+indexes allow queries to select documents 
+that contain arrays by matching on element 
+or elements of the arrays.
+4.) What is the significance of the SET modifier?
+• Set expressions are used to define the scope 
+of a calculation. The central part of the set 
+expression is the set modifier that specifies 
+a selection. This is used to modify the user 
+selection, or the selection in the set 
+identifier, and the result defines a new 
+scope for the calculation
+written in one location.S
+1.
+Cassandra is a high performance 
+and highly scalable distributed 
+NoSQL database management 
+system.
+RDBMS is a Database 
+management system or 
+software which is designed for 
+relational databases.
+2.
+Cassandra is a NoSQL database.
+RDBMS uses SQL for querying 
+and maintaining the database.
+3.
+It deals with unstructured data.
+It deals with structured data.
+4.
+It has a flexible schema.
+It has fixed schema.
+5.
+Cassandra has peer-to-peer 
+architecture with no single point of 
+failure.
+RDBMS has master-slave core 
+architecture means a single 
+point of failure.
+6.
+Cassandra handles high volume 
+incoming data velocity.
+RDBMS handles moderate 
+incoming data velocity.
+7.
+In RDBMS there is limited data 
+source means data come from 
+many locations.
+In Cassandra there are various 
+data source means data come 
+from one/few location.
+8.
+It supports simple transactions.
+It supports complex and nested 
+transactions.
+9.
+In Cassandra the outermost 
+container is Keyspace.
+In RDBMS the outermost 
+container is database.
+10.
+Cassandra follows decentralized 
+deployments.
+RDBMS follows centralized 
+deployments.
+11.
+In Cassandra data written in many 
+locations.
+In RDBMS mainly data are 
+written in one location.S
+1.
+Cassandra is a high performance 
+and highly scalable distributed 
+NoSQL database management 
+system.
+RDBMS is a Database 
+management system or 
+software which is designed for 
+relational databases.
+2.
+Cassandra is a NoSQL database.
+RDBMS uses SQL for querying 
+and maintaining the database.
+3.
+It deals with unstructured data.
+It deals with structured data.
+4.
+It has a flexible schema.
+It has fixed schema.
+5.
+Cassandra has peer-to-peer 
+architecture with no single point of 
+failure.
+RDBMS has master-slave core 
+architecture means a single 
+point of failure.
+6.
+Cassandra handles high volume 
+incoming data velocity.
+RDBMS handles moderate 
+incoming data velocity.
+7.
+In RDBMS there is limited data 
+source means data come from 
+many locations.
+In Cassandra there are various 
+data source means data come 
+from one/few location.
+8.
+It supports simple transactions.
+It supports complex and nested 
+transactions.
+9.
+In Cassandra the outermost 
+container is Keyspace.
+In RDBMS the outermost 
+container is database.
+10.
+Cassandra follows decentralized 
+deployments.
+RDBMS follows centralized 
+deployments.
+11.
+In Cassandra data written in many 
+locations.
+In RDBMS mainly data are 
+written in one location.then replicate entire website content 
+elsewhere
+• There is minor difference that Image 
+scraping works on media content where as 
+web scarping works on all the data 
+3.) Explain how MongoDB indexes data.
+• MongoDB uses multikey indexes to index 
+the content stored in arrays. If you index a 
+field that holds an array value, MongoDB 
+creates separate index entries for every 
+element of the array. These multikey 
+indexes allow queries to select documents 
+that contain arrays by matching on element 
+or elements of the arrays.
+4.) What is the significance of the SET modifier?
+• Set expressions are used to define the scope 
+of a calculation. The central part of the set 
+expression is the set modifier that specifies 
+a selection. This is used to modify the user 
+selection, or the selection in the set 
+identifier, and the result defines a new 
+scope for the calculationthen replicate entire website content 
+elsewhere
+• There is minor difference that Image 
+scraping works on media content where as 
+web scarping works on all the data 
+3.) Explain how MongoDB indexes data.
+• MongoDB uses multikey indexes to index 
+the content stored in arrays. If you index a 
+field that holds an array value, MongoDB 
+creates separate index entries for every 
+element of the array. These multikey 
+indexes allow queries to select documents 
+that contain arrays by matching on element 
+or elements of the arrays.
+4.) What is the significance of the SET modifier?
+• Set expressions are used to define the scope 
+of a calculation. The central part of the set 
+expression is the set modifier that specifies 
+a selection. This is used to modify the user 
+selection, or the selection in the set 
+identifier, and the result defines a new 
+scope for the calculation
